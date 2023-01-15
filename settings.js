@@ -22,15 +22,15 @@ global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
 global.ownerNumberr = "6285782394602"
-global.ownerbot = ['6285782394602@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
+global.ownerbot = ['6285782394602@s.whatsapp.net']
 global.ownername = "Iknaa"
-global.botname = "Alphabot"
+global.botname = "𝕱𝖎𝖌𝖍𝖙𝖊𝖗 𝔅𝔬𝔱𝔰"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By Iknaa store"
+global.fake = "「  𝕱𝖎𝖌𝖍𝖙𝖊𝖗 𝔅𝔬𝔱𝔰  」\nCreated By Iknaa store"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
